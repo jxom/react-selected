@@ -63,7 +63,7 @@ React Selected manages select logic and state internally, but if you wish to hav
 
 ### Render props
 
-#### getButtonSelectableProps
+#### getSelectableProps
 
 Type: `function(key, value, props)` **(`key` is required)**
 
