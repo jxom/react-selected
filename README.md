@@ -2,7 +2,7 @@
 
 > A React component to build selectable components with accessibility in mind.
 
-Listen to [Belinda Carlisle - Summer Rain](https://www.youtube.com/watch?v=wssIZOBV9i4) while reading these docs - it will increase comprehensibility by 120%.
+Listen to [Belinda Carlisle - Summer Rain](https://www.youtube.com/watch?v=wssIZOBV9i4) while reading these docs - it will increase comprehensibility by 120%. [This](https://youtu.be/R_TcZ-ATihY?t=5m10s) will increase it by 420%.
 
 <p align="center"><img src="./react-selected.png" width="400px"></img></p>
 
