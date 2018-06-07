@@ -52,16 +52,12 @@ export default class Selected extends React.Component {
   render = () => {
     const { children } = this.props;
     const { selectedKey, selectedValue } = this.state;
-    return (
-      <div>
-        {children({
-          getElementSelectableProps: this.getElementSelectableProps,
-          getSelectableProps: this.getSelectableProps,
-          select: this.select,
-          selectedKey,
-          selectedValue
-        })}
-      </div>
-    );
+    return children({
+      getElementSelectableProps: this.getElementSelectableProps,
+      getSelectableProps: this.getSelectableProps,
+      select: this.select,
+      selectedKey,
+      selectedValue
+    });
   };
 }
