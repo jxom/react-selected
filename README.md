@@ -15,6 +15,8 @@ React Selected has control over select logic and state meaning that you don't ha
 ## Example
 
 ```jsx
+import Selected from 'react-selected';
+
 <Selected defaultSelectedKey="cat">
   {({ getSelectableProps, selectedKey }) => (
     <Buttons>
