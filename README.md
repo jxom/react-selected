@@ -1,6 +1,6 @@
 # React Selected
 
-> WAI-ARIA compliant React component to build selectable buttons and elements.
+> React component to build flexible and accessible radio buttons/elements. 
 
 Listen to [Belinda Carlisle - Summer Rain](https://www.youtube.com/watch?v=wssIZOBV9i4) while reading these docs - it will increase comprehensibility by 120%. [This](https://youtu.be/R_TcZ-ATihY?t=5m10s) will increase it by 420%.
 
@@ -8,7 +8,7 @@ Listen to [Belinda Carlisle - Summer Rain](https://www.youtube.com/watch?v=wssIZ
 
 ## Why should I use this?
 
-React Selected has control over select logic and state meaning that you don't have to do much! It also has the ability to add WAI-ARIA compliant and other accessibility attributes to the selectable components.
+React Selected has control over select logic and state meaning that you don't have to do much! It also has the ability to add WAI-ARIA compliant and other accessibility attributes to the selectable elements.
 
 ## Install
 
