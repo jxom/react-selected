@@ -1,6 +1,6 @@
 # React Selected
 
-> A React component to build selectable components with accessibility in mind.
+> WAI-ARIA compliant React component to build selectable buttons and elements.
 
 Listen to [Belinda Carlisle - Summer Rain](https://www.youtube.com/watch?v=wssIZOBV9i4) while reading these docs - it will increase comprehensibility by 120%. [This](https://youtu.be/R_TcZ-ATihY?t=5m10s) will increase it by 420%.
 
